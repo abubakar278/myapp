@@ -8,7 +8,7 @@ const About = () => {
           About Company
         </h1>
         <p className="text-xs  lg:text-sm xl:text-xl 2xl:text-2xl  ">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
+          {`Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and
           scrambled it to make a type specimen book. It has survived not only
@@ -16,7 +16,7 @@ const About = () => {
           remaining essentially unchanged. It was popularised in the 1960s with
           the release of Letraset sheets containing Lorem Ipsum passages, and
           more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum.
+          including versions of Lorem Ipsum.`}
         </p>
         <button className="text-xs px-4 py-2  2xl:text-lg rounded-md text-white bg-green-800 md:px-5  lg:px-8 md:py-2 border border-black">
           Learn More
