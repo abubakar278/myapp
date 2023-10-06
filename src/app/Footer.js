@@ -1,7 +1,7 @@
 'use client'
 
 import React from "react";
-import { AiOutlinePlayCircle } from "react-icons/ai";
+// import { AiOutlinePlayCircle } from "react-icons/ai";
 const Footer = () => {
   return (
     <>
@@ -15,7 +15,7 @@ const Footer = () => {
             </p>
           </div>
           <div className="absolute top-0 left-0 text-white text-5xl sm:text-[80px] z-[3] w-full h-full bg-gradient from-black via-red-900 to-white flex items-center justify-center">
-            <AiOutlinePlayCircle className="cursor-pointer" />
+            {/* <AiOutlinePlayCircle className="cursor-pointer" /> */}
           </div>
         </div>
       </div>
