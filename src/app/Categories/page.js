@@ -129,66 +129,7 @@ const Categories = () => {
      </div>
      
      <div className=' grid md:grid-cols-2   xl:grid-cols-4 gap-5 my-2     '>
-      {/* <div className=' rounded-[10px]   pb-[20px]   bg-opacity-50 bg-center bg-cover  'style={{ backgroundImage: "url('/Rectangle 2498.png')" }} >
-      <div className='flex w-full  pt-5 px-5 items-center justify-end'> <div className='flex  h-10 w-10 rounded-full  bg-gray-50 items-center justify-center'><img className='w-5 h-5' src="/he.png" alt="" /> </div> </div>
-          <div className='flex  justify-center px-[56px]'><img className='' src="/zobia-shakar-Qtso7p2tOI4-unsplash-removebg-preview 1.png" alt="" /></div>
-        <div className='container flex py-3 justify-between items-center'>
-          <div>
-           <p className='text-lg '>Lorem Ipsum</p>
-           <div className='font-extrabold text-green-800 gap-1 flex '>
-            <p>$</p>
-            <p>10</p>
-           </div>
-
-          </div>
-          <button className='bg-green-800 text-white rounded px-3 py-2'> Buy Now</button>
-        </div>
-      </div>
-      <div className=' rounded-[10px]   pb-[20px]   bg-opacity-50 bg-center bg-cover  'style={{ backgroundImage: "url('/Rectangle 2498.png')" }} >
-      <div className='flex w-full  pt-5 px-5 items-center justify-end'> <div className='flex  h-10 w-10 rounded-full  bg-gray-50 items-center justify-center'><img className='w-5 h-5' src="/he.png" alt="" /> </div> </div>
-          <div className='flex  justify-center px-[56px]'><img className='' src="/stephanie-harvey-skSdqLMdqGc-unsplash-removebg-preview 1 (1).png" alt="" /></div>
-        <div className='container flex py-3 justify-between items-center'>
-          <div>
-           <p className='text-lg '>Lorem Ipsum</p>
-           <div className='font-extrabold text-green-800 gap-1 flex '>
-            <p>$</p>
-            <p>11</p>
-           </div>
-
-          </div>
-          <button className='bg-green-800 text-white rounded px-3 py-2'> Buy Now</button>
-        </div>
-      </div>
-      <div className=' rounded-[10px]   pb-[20px]   bg-opacity-50 bg-center bg-cover  'style={{ backgroundImage: "url('/Rectangle 2498.png')" }} >
-      <div className='flex w-full  pt-5 px-5 items-center justify-end'> <div className='flex  h-10 w-10 rounded-full  bg-gray-50 items-center justify-center'><img className='w-5 h-5' src="/he.png" alt="" /> </div> </div>
-          <div className='flex  justify-center px-[56px]'><img className='' src="/galina-n-miziNqvJx5M-unsplash__2_-removebg-preview 1.png" alt="" /></div>
-        <div className='container flex py-3 justify-between items-center'>
-          <div>
-           <p className='text-lg '>Lorem Ipsum</p>
-           <div className='font-extrabold text-green-800 gap-1 flex '>
-            <p>$</p>
-            <p>12</p>
-           </div>
-
-          </div>
-          <button className='bg-green-800 text-white rounded px-3 py-2'> Buy Now</button>
-        </div>
-      </div>
-      <div className=' rounded-[10px]   pb-[20px]   bg-opacity-50 bg-center bg-cover  'style={{ backgroundImage: "url('/Rectangle 2498.png')" }} >
-      <div className='flex w-full  pt-5 px-5 items-center justify-end'> <div className='flex  h-10 w-10 rounded-full  bg-gray-50 items-center justify-center'><img className='w-5 h-5' src="/he.png" alt="" /> </div> </div>
-          <div className='flex  justify-center px-[56px]'><img className='' src="/zobia-shakar-Qtso7p2tOI4-unsplash-removebg-preview 1.png" alt="" /></div>
-        <div className='container flex py-3 justify-between items-center'>
-          <div>
-           <p className='text-lg '>Lorem Ipsum</p>
-           <div className='font-extrabold text-green-800 gap-1 flex '>
-            <p>$</p>
-            <p>15</p>
-           </div>
-
-          </div>
-          <button className='bg-green-800 text-white rounded px-3 py-2'> Buy Now</button>
-        </div>
-      </div> */}
+    
       <div className="overflow-hidden rounded-2xl  bg-opacity-50 bg-center bg-cover   "
         style={{ backgroundImage: "url('/Rectangle 2498.png')" }}>
           <div className='flex w-full py-5 px-5  items-center justify-end'> <div className='flex  h-10 w-10 rounded-full  bg-gray-50 items-center justify-center'><img className='w-5 h-5' src="/he.png" alt="" /> </div> </div>

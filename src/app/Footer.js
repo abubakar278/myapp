@@ -1,3 +1,5 @@
+'use client'
+
 import React from "react";
 import { AiOutlinePlayCircle } from "react-icons/ai";
 const Footer = () => {

@@ -31,9 +31,9 @@ const Blog = () => {
               </div>
             </div>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
+             {` Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
-              ever.
+              ever.`}
             </p>
             <div className="flex gap-10 ">
               <div className="flex items-center space-x-1">
@@ -66,9 +66,9 @@ const Blog = () => {
               </div>
             </div>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever.
+            {`Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever.`}
             </p>
             <div className="flex gap-10 ">
               <div className="flex items-center space-x-1">
@@ -101,9 +101,9 @@ const Blog = () => {
               </div>
             </div>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
+             {` Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
-              ever.
+              ever.`}
             </p>
             <div className="flex gap-10 ">
               <div className="flex items-center space-x-1">
